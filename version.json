@@ -1,0 +1,12 @@
+{
+    "version": "1.0.1",
+    "download_url": "https://github.com/radityo04/priceCheck/releases/latest/download/GramediaPriceCheck.exe",
+    "release_url": "https://github.com/radityo04/priceCheck/releases/latest",
+    "mandatory": false,
+    "title": "Gramedia Price Check v1.0.1",
+    "notes": [
+        "Initial release",
+        "Perbaikan UI Price Check",
+        "Dynamic affiliation"
+    ]
+}
